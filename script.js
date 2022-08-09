@@ -1,7 +1,7 @@
 function display(val){ 
 
  document.getElementById('result').value += val;
- return val 
+ return val;
 
 }
 
@@ -11,7 +11,7 @@ function solve() {
 
     document.getElementById('result').value = y;
 
-    return y
+    return y;
 
 }
 
